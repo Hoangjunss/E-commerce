@@ -24,7 +24,7 @@ public class Car {
     private String price;
     private String description;
     private String status;
-    private Image image;
+//    private Image image;
 
 
 }
